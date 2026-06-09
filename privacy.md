@@ -171,3 +171,4 @@ updating the effective date above.
 If you have questions about this Privacy Policy, contact:
 
 [starmap developer team]  
+support@starmapsai.com
